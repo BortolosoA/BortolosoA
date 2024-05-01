@@ -16,16 +16,13 @@
 
 # 🦦 About me
 
-👾 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
-
-🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
-
-💼 Always open to new learning and collaboration opportunities! 
+👾 Hello! I'm Adrian Bortoloso, a Internet Sistem student, dedicated to expanding my knowledge in the vast world of technology!
+ 
 
 🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery! 
 
 ## 👋 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-labussiere-frança-550937282/) 
+[![LinkedIn]()
 
 
 ## 📚 Studying in this moment
