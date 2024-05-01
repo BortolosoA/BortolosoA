@@ -17,6 +17,8 @@
 ## 👋 My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Instagram](https://img.shields.io/badge/Instagram-AAF0D1?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adrian.bortoloso?igsh=c3YydjVibGFod2M5&utm_source=qr)
+[![Gmail](https://img.shields.io/badge/Gmail-e64e3e?style=for-the-badge&logo=Gmail&logoColor=white)](https://bortoloso.adrian@gmail.com)
+
 
 
 ## 📚 Studying in this moment
