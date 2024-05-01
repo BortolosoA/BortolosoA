@@ -8,7 +8,7 @@
 <img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
 <img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=0CF738&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Welcome+to+my+GitHub+%F0%9F%92%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=0CF738&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Welcome+to+my+GitHub+%F0%9F%92%9A)](https://git.io/typing-svg)]
 
 <div align="left">
 
