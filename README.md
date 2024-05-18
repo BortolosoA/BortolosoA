@@ -29,11 +29,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BortolosoA&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BortolosoA&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BortolosoA&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 ## Tools
 
