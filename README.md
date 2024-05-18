@@ -27,7 +27,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.dio.me/users/agbortoloso) 
 [![MySQL](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=mysql&logoColor=black)](https://www.dio.me/users/agbortoloso) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BortolosoA&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BortolosoA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tools
