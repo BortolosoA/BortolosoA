@@ -9,7 +9,7 @@
 
 # About me
 
-👾 Hello! I'm Adrian Bortoloso, a Software Engineering and Cyber Secuity Engeneering Student, dedicated to expanding my knowledge in the world of technology!
+👾 Hello! I'm Adrian Bortoloso, a Software Engineering Student, dedicated to expanding my knowledge in the world of technology!
  
 
 🚀 I'm excited to share my progress, projects, and contributions here on GitHub. 
