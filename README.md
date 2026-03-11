@@ -24,7 +24,7 @@
 ## Studying in this moment
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
-[![Shell Script](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badgelogo=gnu-bash&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
+[![Bash](https://img.shields.io/badge/Bash-f3f6f4?style=for-the-badge&logo=bash&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
 [![MySQL](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=mysql&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Rust](https://img.shields.io/badge/Rust-6B3E28?style=for-the-badge&logo=rust&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Go](https://img.shields.io/badge/Go-79D4FD?style=for-the-badge&logo=go&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
