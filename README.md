@@ -26,8 +26,8 @@
 [![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badgelogo=gnu-bash&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
 [![MySQL](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=mysql&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
-[![Rust](https://img.shields.io/badge/Rust-f3f6f4?style=for-the-badge&logo=rust&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
-[![Go](https://img.shields.io/badge/Go-f3f6f4?style=for-the-badge&logo=go&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
+[![Rust](https://img.shields.io/badge/Rust-6B3E28?style=for-the-badge&logo=rust&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
+[![Go](https://img.shields.io/badge/Go-79D4FD?style=for-the-badge&logo=go&logoColor=black)](https://www.linkedin.com/in/adrianbortoloso/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BortolosoA&layout=compact&bg_color=111&border_color=8300ff&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
