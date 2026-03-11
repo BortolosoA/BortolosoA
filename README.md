@@ -17,15 +17,17 @@
 ## My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianbortoloso/)
 [![Instagram](https://img.shields.io/badge/Instagram-AAF0D1?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adrian.bortoloso?igsh=c3YydjVibGFod2M5&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/Gmail-e64e3e?style=for-the-badge&logo=Gmail&logoColor=white)](https://bortoloso.adrian@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-e64e3e?style=for-the-badge&logo=Gmail&logoColor=white)](https://adrianb.contato@gmail.com)
 
 
 
 ## Studying in this moment
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.dio.me/users/agbortoloso)
-[![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white)](https://www.dio.me/users/agbortoloso) 
-[![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badgelogo=gnu-bash&logoColor=white)](https://www.dio.me/users/agbortoloso) 
-[![MySQL](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=mysql&logoColor=black)](https://www.dio.me/users/agbortoloso) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white)]
+[![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badgelogo=gnu-bash&logoColor=white)]
+[![MySQL](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=mysql&logoColor=black)]
+[![Rust](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=rust&logoColor=black)]
+[![Go](https://img.shields.io/badge/MySQL-f3f6f4?style=for-the-badge&logo=go&logoColor=black)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BortolosoA&layout=compact&bg_color=111&border_color=8300ff&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
